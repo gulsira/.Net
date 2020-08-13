@@ -1,0 +1,17 @@
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.Business.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.Business.pdb
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Microsoft.Analytics.Types.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.Entities.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\EntityFramework.dll
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.pdb
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll.config
+C:\NLayeredDemo\Northwind.Business\bin\Debug\Northwind.Entities.pdb
+C:\NLayeredDemo\Northwind.Business\bin\Debug\EntityFramework.xml
+C:\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+C:\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
+C:\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
+C:\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb

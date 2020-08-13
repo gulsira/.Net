@@ -1,0 +1,10 @@
+C:\NLayeredDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\NLayeredDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\NLayeredDemo\Northwind.Entities\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\NLayeredDemo\Northwind.Entities\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\NLayeredDemo\Northwind.Entities\bin\Debug\Microsoft.Analytics.Types.dll
+C:\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+C:\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
