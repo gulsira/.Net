@@ -23,5 +23,39 @@ namespace Northwind.Business.Concrete
         {
             return _productDal.GetAll();
         }
+
+        public List<Product> GetProductsByCategory(int categoryId)
+        {
+            return _productDal.GetAll(p => p.CategoryId == categoryId);
+        }
+
+        public List <Product> SearchProductsByName(string productName)
+        {
+            return _productDal.GetAll(p => p.ProductName.ToLower().Contains(productName.ToLower()));
+        }
+
+        public void Add(Product product)
+        {
+            _productDal.Add(product);
+        }
+
+        public void Edit(Product product)
+        {
+            _productDal.Update(product);
+        }
+
+        void IProductService.Delete(Product product)
+        {
+            try
+            {
+                _productDal.Delete(product);
+            }
+            catch 
+            {
+
+                throw new Exception("Deletion Failed");
+            }
+            
+        }
     }
 }

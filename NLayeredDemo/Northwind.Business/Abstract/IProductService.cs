@@ -10,5 +10,10 @@ namespace Northwind.Business.Abstract
     public interface IProductService
     {
         List<Product> GetAll();
+        List<Product> GetProductsByCategory(int categoryId);
+        List <Product> SearchProductsByName(string categoryName);
+        void Add(Product product);
+        void Edit(Product product);
+        void Delete(Product product);
     }
 }
