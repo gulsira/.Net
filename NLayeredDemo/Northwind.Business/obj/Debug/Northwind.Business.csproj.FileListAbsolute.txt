@@ -32,3 +32,7 @@ C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\obj\Debug\Nor
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.Business\bin\Debug\Ninject.xml

@@ -42,3 +42,7 @@ C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\obj\Debug\N
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\gulsira\Desktop\.Net\.Net\NLayeredDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
